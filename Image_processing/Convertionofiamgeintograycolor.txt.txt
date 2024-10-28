@@ -1,0 +1,5 @@
+cv2.imread(): Reads the colored image from the specified path.
+cv2.cvtColor(): Converts the image to grayscale using the cv2.COLOR_BGR2GRAY flag.
+cv2.imwrite(): Saves the grayscale image to a file.
+cv2.imshow(): Displays the grayscale image in a window.
+cv2.waitKey(0) and cv2.destroyAllWindows(): Keep the window open until a key is pressed, then close the window.
