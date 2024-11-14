@@ -1,6 +1,23 @@
 # UppuBhavya_AI-Enhanced-Engagement-Tracker-for-Young-Learners_Infosys_Internship_Oct2024
+# OpenCV_projects
+This repo contains Image processing projects using python (OpenCV library).
+
+### Installing Libraries
+
+```cmd
+pip install numpy
+pip install opencv
+pip install times
+
+```
+-> We use numpy library as it contains a multi-dimensional array and matrix data structures. It can be utilised to perform a number of mathematical operations on arrays such as trigonometric, statistical, and algebraic routines.
+-> We use OpenCV library because it is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
+
+
 Working with Open CV
 #Image processing Techniques
+## It includes following projects
+----
 
 1.Coloring the image
 
@@ -56,5 +73,34 @@ Resize of image
 
 ![Screenshot 2024-11-14 204610](https://github.com/user-attachments/assets/741b1614-8955-4ae6-b250-0bb1968f1315)
 
+Template of images
+![Screenshot 2024-11-14 205228](https://github.com/user-attachments/assets/18ae3ef8-2c37-4e85-b5bb-2ebecbbd1512)
+ 
 These are some ImageProcessing Techniques I have done
+
+#Video Processsing Techniques
+
+ Save - saving the captured videos By WebCams
+
+ FPS -The FPS (frames per second) of video processing refers to the number of individual frames (or images) a system can process per second
+Video Stacking - adding the both videos
+## It includes following projects
+----
+----
+1. Add text to video stream
+2.  Accessing webcam and record video
+
+The outputs of above video processing techniques provided itself in the video_processing folder
+
+#Annotations
+
+Labeling the images like
+
+![gun](https://github.com/user-attachments/assets/0d8d94c5-c0d3-4686-88f2-33dcbe78c9ae)
+
+
+### Steps to follow
+-Install the given libraries<br>
+-Download the code from the given github repository<br>
+-Run the code<br><br>
 
