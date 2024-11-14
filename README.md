@@ -14,6 +14,11 @@ After Coloring
 
 ![Screenshot 2024-11-14 192643](https://github.com/user-attachments/assets/fcfa1d27-af26-4c0d-bfbf-2a78e23cf622)
 
+Contouring the image -he process of highlighting or emphasizing the edges and boundaries of objects within an image
+
+![Screenshot 2024-11-14 202903](https://github.com/user-attachments/assets/b8e16ba6-2d5f-4de3-bde9-a161f8a252c3)
+
+
 
 
 
