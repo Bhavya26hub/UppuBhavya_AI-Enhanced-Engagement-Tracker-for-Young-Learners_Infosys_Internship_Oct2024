@@ -42,4 +42,19 @@ HSV stands for Hue, Saturation, and Value a color model of an image
 
 ![Screenshot 2024-11-14 204122](https://github.com/user-attachments/assets/fae8ebdf-a459-4e82-9946-3ed4c4816ef4)
 
+Morphological Transformations
+
+![Screenshot 2024-11-14 204355](https://github.com/user-attachments/assets/ed4b80aa-3810-422b-bf84-0d3e82035983)
+
+![Screenshot 2024-11-14 204402](https://github.com/user-attachments/assets/19db3c01-3621-49c3-9e1b-c03ad84c9ad2)
+
+Rotation of images
+
+![Screenshot 2024-11-14 204527](https://github.com/user-attachments/assets/937bb8f9-9394-4ed5-b8a3-7e7c23217390)
+
+Resize of image
+
+![Screenshot 2024-11-14 204610](https://github.com/user-attachments/assets/741b1614-8955-4ae6-b250-0bb1968f1315)
+
+These are some ImageProcessing Techniques I have done
 
