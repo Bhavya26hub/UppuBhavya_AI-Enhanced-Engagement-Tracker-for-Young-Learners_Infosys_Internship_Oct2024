@@ -15,7 +15,7 @@ pip install times
 
 
 Working with Open CV
-#Image processing Techniques
+###Image processing Techniques
 ## It includes following projects
 ----
 
@@ -78,7 +78,7 @@ Template of images
  
 These are some ImageProcessing Techniques I have done
 
-#Video Processsing Techniques
+###Video Processsing Techniques
 
  Save - saving the captured videos By WebCams
 
@@ -92,7 +92,7 @@ Video Stacking - adding the both videos
 
 The outputs of above video processing techniques provided itself in the video_processing folder
 
-#Annotations
+###Annotations
 
 Labeling the images like
 
