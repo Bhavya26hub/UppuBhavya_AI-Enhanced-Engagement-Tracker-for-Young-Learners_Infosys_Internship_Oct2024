@@ -18,8 +18,28 @@ Contouring the image -he process of highlighting or emphasizing the edges and bo
 
 ![Screenshot 2024-11-14 202903](https://github.com/user-attachments/assets/b8e16ba6-2d5f-4de3-bde9-a161f8a252c3)
 
+ ConvertionOfImage
 
+ ![Screenshot 2024-11-14 203441](https://github.com/user-attachments/assets/3493b9a6-aa7d-4273-8123-dba39d9a4532)
 
+ Dialation of image - process images based on their shapes or structures
 
+ ![Screenshot 2024-11-14 203602](https://github.com/user-attachments/assets/c806e2c7-3452-4d2a-98a5-ab8452ad7717)
+
+Erosion of image - reduces the boundaries of the foreground objects 
+
+![Screenshot 2024-11-14 203616](https://github.com/user-attachments/assets/14833e29-900b-4e79-9590-69d158ebf06e)
+
+Edge Detection
+
+![Screenshot 2024-11-14 203858](https://github.com/user-attachments/assets/e8054722-9cf8-4384-bdd4-529847238e2f)
+
+Histogram - an image is a graphical representation of the distribution of pixel intensity values in that image
+
+![Screenshot 2024-11-14 204005](https://github.com/user-attachments/assets/4fe3a213-f069-4d47-964b-6f120402b2ab)
+
+HSV stands for Hue, Saturation, and Value a color model of an image
+
+![Screenshot 2024-11-14 204122](https://github.com/user-attachments/assets/fae8ebdf-a459-4e82-9946-3ed4c4816ef4)
 
 
